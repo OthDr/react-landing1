@@ -12,15 +12,15 @@ const Footer = () => {
                 <div className="grid ">
                     
                     <div className="max-w-full mx-auto flex flex-col md:flex-row my-2">
-                        <a href="#" className='mx-2 flex items-center  text-slate-300'><FaFacebookSquare size={20} />OTHDR</a>
-                        <a href="#" className='mx-2 flex items-center  text-slate-300'><FaGithubSquare size={20} />OTHDR</a>
-                        <a href="#" className='mx-2 flex items-center  text-slate-300'><FaTwitterSquare size={20} />OTHDR</a>
-                        <a href="#" className='mx-2 flex items-center  text-slate-300'><FaInstagram size={20} />OTHDR</a>
+                        <a href="#" className='mx-2 flex items-center  text-slate-300 my-1'><FaFacebookSquare size={20} />OTHDR</a>
+                        <a href="#" className='mx-2 flex items-center  text-slate-300 my-1'><FaGithubSquare size={20} />OTHDR</a>
+                        <a href="#" className='mx-2 flex items-center  text-slate-300 my-1'><FaTwitterSquare size={20} />OTHDR</a>
+                        <a href="#" className='mx-2 flex items-center  text-slate-300 my-1'><FaInstagram size={20} />OTHDR</a>
                     </div>
-                    <div className='max-w-full mx-auto flex flex-col md:flex-row my-4'>
-                        <h5 className='mx-2 text-emerald-300'> <a href="#">Privacy</a> </h5>
-                        <h5 className='mx-2 text-emerald-300'> <a href="#">Terms</a> </h5>
-                        <h5 className='mx-2 text-emerald-300'> <a href="#">Blog</a> </h5>
+                    <div className='max-w-full mx-auto flex flex-col md:flex-row my-4 '>
+                        <h5 className='mx-2 text-emerald-300 text-center'> <a href="#">Privacy</a> </h5>
+                        <h5 className='mx-2 text-emerald-300 text-center'> <a href="#">Terms</a> </h5>
+                        <h5 className='mx-2 text-emerald-300 text-center'> <a href="#">Blog</a> </h5>
                     </div>
                 </div>
                 <div className='max-w-full mx-auto mt-2'>

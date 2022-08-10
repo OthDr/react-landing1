@@ -3,7 +3,7 @@ import coder from '../assets/css.png';
 const Offers = () => {
     return (
         <>
-            <div className='p-12 mb-12'>
+            <div className='py-12 mb-12 px-2'>
                 
                 <h1 className='text-5xl font-bold text-center text-emerald-400'>Offers</h1>
                 
