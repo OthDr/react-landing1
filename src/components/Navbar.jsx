@@ -21,7 +21,7 @@ const Navbar = () => {
                 }
 
             </div>
-            {mobileNav && <ul className='absolute md:hidden w-full h-screen bg-slate-900 pt-[20%] px-[30%] uppercase'>
+            {mobileNav && <ul className='absolute md:hidden w-full h-screen bg-slate-900 pt-[20%] px-[30%] uppercase z-10'>
                 <li className='text-md my-8 text-slate-600 hover:text-emerald-400 text-2xl text-center border-b-2 border-slate-800 leading-10'><a className='' href="/">Pricing</a></li>
                 <li className='text-md my-8 text-slate-600 hover:text-emerald-400 text-2xl text-center border-b-2 border-slate-800 leading-10'><a className='' href="/">Contact</a></li>
                 <li className='text-md my-8 text-slate-600 hover:text-emerald-400 text-2xl text-center border-b-2 border-slate-800 leading-10'><a className='' href="/">About</a></li>
