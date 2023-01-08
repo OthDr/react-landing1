@@ -5,5 +5,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b263eb31-9361-40c3-b133-0ee7a87601c7/deploy-status)](https://app.netlify.com/sites/othmane-derr/deploys)
 
 
-Responsive Landing Page example
+# Responsive Landing Page example
+
 Demo: https://othmane-derr.netlify.app/
